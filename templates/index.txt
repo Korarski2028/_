@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebTracker Dashboard</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5" style="background-color: #006fd1; color: white; font-weight: bold; padding: 10px;">WebTracker Dashboard</h1>
+
+        <div class="form-group mt-4">
+            <label for="projectSelector">Project</label>
+            <select class="form-control" id="projectSelector">
+                {% for project in projects %}
+                    <option value="{{ project }}" {% if project == selected_project %}selected{% endif %}>
+                        {{ project.replace('.xlsx', '').replace('Tracker', 'Tracker ') }}
+                    </option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="row mt-4">
+            <div class="col-md-4">
+                <h2>Summary by Status</h2>
+                {{ status_summary | safe }}
+            </div>
+            <div class="col-md-4">
+                <h2>Summary by Vendor</h2>
+                {{ vendor_summary | safe }}
+            </div>
+            <div class="col-md-4">
+                <h2>Completed by Cluster</h2>
+                {{ completed_by_cluster | safe }}
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col-md-12">
+                <h2>Pending or not started by Model</h2>
+                {{ pending_by_model | safe }}
+            </div>
+        </div>
+
+        <div class="row mt-4">
+            <div class="col-md-6">
+                <h2>Completion Status</h2>
+                <canvas id="completionPieChart"></canvas>
+            </div>
+            <div class="col-md-12">
+                <h2>Cluster Status</h2>
+                {% for chart_data in charts_data %}
+                    <div class="mt-4">
+                        <h4>{{ chart_data.vcenter }}</h4>
+                        <canvas id="clusterStatusBarChart-{{ loop.index }}"></canvas>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <script>
+        var ctxPie = document.getElementById('completionPieChart').getContext('2d');
+        var completionPieChart = new Chart(ctxPie, {
+            type: 'pie',
+            data: {
+                labels: {{ pie_chart_data.labels | tojson | safe }},
+                datasets: [{
+                    data: {{ pie_chart_data.data | tojson | safe }},
+                    backgroundColor: {{ pie_chart_data.backgroundColor | tojson | safe }},
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        position: 'top',
+                    },
+                    title: {
+                        display: true,
+                        text: 'Completion Status'
+                    }
+                }
+            }
+        });
+
+        {% for chart_data in charts_data %}
+            var ctxBar{{ loop.index }} = document.getElementById('clusterStatusBarChart-{{ loop.index }}').getContext('2d');
+            new Chart(ctxBar{{ loop.index }}, {
+                type: 'bar',
+                data: {{ chart_data | tojson | safe }},
+                options: {
+                    indexAxis: 'y',
+                    responsive: true,
+                    scales: {
+                        x: {
+                            stacked: true,
+                        },
+                        y: {
+                            stacked: true,
+                            categoryPercentage: 0.8,
+                            barPercentage: 0.9
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            position: 'top',
+                        },
+                        title: {
+                            display: true,
+                            text: 'Server Status by Cluster'
+                        }
+                    }
+                }
+            });
+        {% endfor %}
+    </script>
+
+    <script>
+        document.getElementById('projectSelector').addEventListener('change', function() {
+            var selectedProject = this.value;
+            window.location.href = '/?project=' + selectedProject;
+        });
+    </script>
+</body>
+</html>

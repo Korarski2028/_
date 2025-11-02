@@ -1,0 +1,105 @@
+from flask import Flask, render_template, request
+import pandas as pd
+import glob
+import os
+
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    project_files = [os.path.basename(f) for f in glob.glob('Tracker*.xlsx')]
+    
+    selected_project = request.args.get('project', project_files[0] if project_files else None)
+    
+    if not selected_project or not os.path.exists(selected_project):
+        return "No Tracker files found or selected project does not exist."
+
+    df = pd.read_excel(selected_project)
+    df.columns = df.columns.str.strip()
+    df['status'] = df['status'].str.lower()
+
+    # Summary by Status
+    status_summary = df['status'].value_counts().reset_index()
+    status_summary.columns = ['Status', 'Count']
+
+    # Summary by Vendor
+    vendor_summary = df['Vendr'].value_counts().reset_index()
+    vendor_summary.columns = ['Vendor', 'Count']
+
+    # Pie chart data
+    pie_chart_statuses = df['status'].value_counts()
+    pie_chart_labels = pie_chart_statuses.index.tolist()
+    pie_chart_data_values = pie_chart_statuses.values.tolist()
+    
+    pie_chart_colors = {
+        'completed': 'rgba(75, 192, 192, 0.6)',
+        'in progress': 'rgba(54, 162, 235, 0.6)',
+        'pending': 'rgba(255, 206, 86, 0.6)',
+        'on hold': 'rgba(255, 99, 132, 0.6)',
+        'not started': 'rgba(201, 203, 207, 0.6)', # Gray for not started
+    }
+    
+    pie_chart_background_colors = [pie_chart_colors.get(status, 'rgba(201, 203, 207, 0.6)') for status in pie_chart_labels]
+
+    pie_chart_data = {
+        'labels': pie_chart_labels,
+        'data': pie_chart_data_values,
+        'backgroundColor': pie_chart_background_colors,
+    }
+
+    # Grouped bar chart data: Cluster status by vCenter
+    vcenters = df['vCenter'].unique()
+    charts_data = []
+    for vcenter in vcenters:
+        vcenter_df = df[df['vCenter'] == vcenter]
+        cluster_status_summary = vcenter_df.groupby(['cluster name', 'status']).size().unstack(fill_value=0)
+        
+        if cluster_status_summary.empty:
+            continue
+
+        cluster_chart_data = {
+            'vcenter': vcenter,
+            'labels': cluster_status_summary.index.tolist(),
+            'datasets': []
+        }
+        
+        status_colors = {
+            'on hold': 'rgba(255, 159, 64, 0.6)',
+            'completed': 'rgba(75, 192, 192, 0.6)',
+            'in progress': 'rgba(54, 162, 235, 0.6)',
+            'not started': 'rgba(255, 99, 132, 0.6)',
+            'pending': 'rgba(255, 206, 86, 0.6)',
+        }
+
+        for status in cluster_status_summary.columns:
+            cluster_chart_data['datasets'].append({
+                'label': status,
+                'data': cluster_status_summary[status].tolist(),
+                'backgroundColor': status_colors.get(status, 'rgba(201, 203, 207, 0.6)'),
+                'barThickness': 48,
+            })
+        charts_data.append(cluster_chart_data)
+
+    # Completed by Cluster
+    completed_df = df[df['status'] == 'completed']
+    completed_by_cluster = completed_df.groupby('cluster name').size().reset_index(name='Completed Count')
+    completed_by_cluster.columns = ['Cluster Name', 'Completed Count']
+
+    # Pending or not started by Model
+    pending_statuses = ['pending', 'not started', 'on hold']
+    pending_df = df[df['status'].isin(pending_statuses)]
+    pending_by_model = pending_df.groupby('mode').size().reset_index(name='Count')
+    pending_by_model.columns = ['Model', 'Count']
+
+    return render_template('index.html', 
+                           projects=project_files,
+                           selected_project=selected_project,
+                           status_summary=status_summary.to_html(classes='table table-striped', index=False),
+                           vendor_summary=vendor_summary.to_html(classes='table table-striped', index=False),
+                           completed_by_cluster=completed_by_cluster.to_html(classes='table table-striped', index=False),
+                           pending_by_model=pending_by_model.to_html(classes='table table-striped', index=False),
+                           pie_chart_data=pie_chart_data,
+                           charts_data=charts_data)
+
+if __name__ == '__main__':
+    app.run(debug=True)
