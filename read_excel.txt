@@ -1,4 +1,0 @@
-import pandas as pd
-
-df = pd.read_excel("Tracker1.xlsx")
-print(df['status'].unique())
