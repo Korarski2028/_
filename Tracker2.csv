@@ -1,225 +1,225 @@
-﻿RFC ,vCenter,cluster name,Server Name ,Vendr,mode,date,status
-CHG00254780,vCenter-First.demo.com,Cluster-08 ,Server001.demo com,Intel,M50CYP2UR208,11/1/2025,on Hold
-CHG00254780,vCenter-First.demo.com,Cluster-08 ,Server002.demo com,Intel,M50CYP2UR208,11/1/2025,on Hold
-CHG00254780,vCenter-First.demo.com,Cluster-08 ,Server003.demo com,Intel,M50CYP2UR208,11/1/2025,on Hold
-CHG00254780,vCenter-First.demo.com,Cluster-08 ,Server004.demo.com,Intel,M50CYP2UR208,11/1/2025,on Hold
-CHG00254780,vCenter-First.demo.com,Cluster-08 ,Server005.demo.com,Intel,M50CYP2UR208,11/1/2025,on Hold
-CHG00254780,vCenter-First.demo.com,Cluster-08 ,Server006.demo.com,Intel,M50CYP2UR208,11/1/2025,on Hold
-CHG00254780,vCenter-First.demo.com,Cluster-08 ,Server007.demo.com,Intel,M50CYP2UR208,11/1/2025,on Hold
-CHG00254780,vCenter-First.demo.com,Cluster-08 ,Server008.demo.com,Intel,M50CYP2UR208,11/1/2025,on Hold
-CHG00254780,vCenter-First.demo.com,Cluster-08 ,Server009.demo.com,Intel,M50CYP2UR208,11/1/2025,on Hold
-CHG00254780,vCenter-First.demo.com,Cluster-08 ,Server0010.demo.com,Intel,M50CYP2UR208,11/1/2025,on Hold
-CHG00254780,vCenter-First.demo.com,Cluster-08 ,Server011.demo.com,Intel,M50CYP2UR208,11/1/2025,on Hold
-CHG00254780,vCenter-First.demo.com,Cluster-08 ,Server012.demo.com,Intel,M50CYP2UR208,11/1/2025,on Hold
-CHG00254780,vCenter-First.demo.com,Cluster-08 ,Server013.demo.com,Intel,M50CYP2UR208,11/1/2025,on Hold
-CHG00254780,vCenter-First.demo.com,Cluster-08 ,Server014.demo.com,Intel,M50CYP2UR208,11/1/2025,In Progress
-CHG00254779,vCenter-First.demo.com,Cluster-09,Server015.demo.com,Intel,M50CYP2UR208,10/1/2025,In Progress
-CHG00254779,vCenter-First.demo.com,Cluster-09,Server016.demo.com,Intel,M50CYP2UR208,10/1/2025,In Progress
-CHG00254779,vCenter-First.demo.com,Cluster-09,Server017.demo.com,Intel,M50CYP2UR208,10/1/2025,In Progress
-CHG00254779,vCenter-First.demo.com,Cluster-09,Server018.demo.com,Intel,M50CYP2UR208,10/1/2025,In Progress
-CHG00254779,vCenter-First.demo.com,Cluster-09,Server019.demo.com,Intel,M50CYP2UR208,10/1/2025,In Progress
-CHG00254779,vCenter-First.demo.com,Cluster-09,Server020.demo.com,Intel,M50CYP2UR208,10/1/2025,In Progress
-CHG00254779,vCenter-First.demo.com,Cluster-09,Server021.demo.com,Intel,M50CYP2UR208,10/1/2025,In Progress
-CHG00254779,vCenter-First.demo.com,Cluster-09,Server022.demo.com,Intel,M50CYP2UR208,10/1/2025,Completed
-CHG00254779,vCenter-First.demo.com,Cluster-09,Server023.demo.com,Intel,M50CYP2UR208,10/1/2025,Completed
-CHG00254779,vCenter-First.demo.com,Cluster-09,Server024.demo.com,Intel,M50CYP2UR208,10/1/2025,Completed
-CHG00254779,vCenter-First.demo.com,Cluster-09,Server025.demo.com,Intel,M50CYP2UR208,10/1/2025,Completed
-CHG00254779,vCenter-First.demo.com,Cluster-09,Server026.demo.com,Intel,M50CYP2UR208,10/1/2025,Not Started
-CHG00254779,vCenter-First.demo.com,Cluster-09,Server027.demo.com,Intel,M50CYP2UR208,10/1/2025,Not Started
-CHG00254779,vCenter-First.demo.com,Cluster-09,Server028.demo.com,Intel,M50CYP2UR208,10/1/2025,Not Started
-CHG00254779,vCenter-First.demo.com,Cluster-10,Server029.demo.com,Intel,M50CYP2UR208,10/1/2025,Not Started
-CHG00254779,vCenter-First.demo.com,Cluster-10,Server030.demo.com,Intel,M50CYP2UR208,10/1/2025,In Progress
-CHG00254779,vCenter-First.demo.com,Cluster-10,Server031.demo.com,Intel,M50CYP2UR208,10/1/2025,In Progress
-CHG00254779,vCenter-First.demo.com,Cluster-10,Server032.demo.com,Intel,M50CYP2UR208,10/1/2025,In Progress
-CHG00254779,vCenter-First.demo.com,Cluster-10,Server033.demo.com,Intel,M50CYP2UR208,10/1/2025,In Progress
-CHG00254779,vCenter-First.demo.com,Cluster-10,Server034.demo.com,Intel,M50CYP2UR208,10/1/2025,In Progress
-CHG00254779,vCenter-First.demo.com,Cluster-10,Server035.demo.com,Intel,M50CYP2UR208,10/1/2025,In Progress
-CHG00254779,vCenter-First.demo.com,Cluster-10,Server036.demo.com,Intel,M50CYP2UR208,10/1/2025,Not Started
-CHG00254779,vCenter-First.demo.com,Cluster-10,Server037.demo.com,Intel,M50CYP2UR208,10/1/2025,Not Started
-CHG00254779,vCenter-First.demo.com,Cluster-10,Server038.demo.com,Intel,M50CYP2UR208,10/1/2025,Not Started
-CHG00254779,vCenter-First.demo.com,Cluster-10,Server039.demo.com,Intel,M50CYP2UR208,10/1/2025,Not Started
-CHG00254779,vCenter-First.demo.com,Cluster-10,Server040.demo.com,Intel,M50CYP2UR208,10/1/2025,Not Started
-CHG00254779,vCenter-First.demo.com,Cluster-10,Server041.demo.com,Intel,M50CYP2UR208,10/1/2025,Not Started
-CHG00254779,vCenter-First.demo.com,Cluster-10,Server042.demo.com,Intel,M50CYP2UR208,10/1/2025,Not Started
-CHG00254780,vCenter-First.demo.com,Cluster-11,Server043.demo.com,Intel,M50CYP2UR208,11/1/2025,Completed
-CHG00254780,vCenter-First.demo.com,Cluster-11,Server044.demo.com,Intel,M50CYP2UR208,11/1/2025,Completed
-CHG00254780,vCenter-First.demo.com,Cluster-11,Server045.demo.com,Intel,M50CYP2UR208,11/1/2025,Completed
-CHG00254780,vCenter-First.demo.com,Cluster-11,Server046.demo.com,Intel,M50CYP2UR208,11/1/2025,Completed
-CHG00254780,vCenter-First.demo.com,Cluster-11,Server047.demo.com,Intel,M50CYP2UR208,11/1/2025,Completed
-CHG00254780,vCenter-First.demo.com,Cluster-11,Server048.demo.com,Intel,M50CYP2UR208,11/1/2025,Completed
-CHG00254780,vCenter-First.demo.com,Cluster-11,Server049.demo.com,Intel,M50CYP2UR208,11/1/2025,Completed
-CHG00254780,vCenter-First.demo.com,Cluster-11,Server050.demo.com,Intel,M50CYP2UR208,11/1/2025,Completed
-CHG00254780,vCenter-First.demo.com,Cluster-11,Server051.demo.com,Intel,M50CYP2UR208,11/1/2025,Completed
-CHG00254780,vCenter-First.demo.com,Cluster-11,Server052.demo.com,Intel,M50CYP2UR208,11/1/2025,Completed
-CHG00254780,vCenter-First.demo.com,Cluster-11,Server053.demo.com,Intel,M50CYP2UR208,11/1/2025,In Progress
-CHG00254780,vCenter-First.demo.com,Cluster-11,Server054.demo.com,Intel,M50CYP2UR208,11/1/2025,In Progress
-CHG00254780,vCenter-First.demo.com,Cluster-11,Server055.demo.com,Intel,M50CYP2UR208,11/1/2025,In Progress
-CHG00254780,vCenter-First.demo.com,Cluster-11,Server056.demo.com,Intel,M50CYP2UR208,11/1/2025,In Progress
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-10,Server057.demo.com,Dell,PowerEdge R740,10/1/2025,In Progress
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-10,Server058.demo.com,Dell,PowerEdge R740,10/1/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-10,Server059.demo.com,Dell,PowerEdge R740,10/1/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-10,Server060.demo.com,Dell,PowerEdge R740,10/1/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-10,Server061.demo.com,Dell,PowerEdge R740,10/1/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-10,Server062.demo.com,Dell,PowerEdge R740,10/1/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-10,Server063.demo.com,Dell,PowerEdge R740,10/1/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-10,Server064.demo.com,Dell,PowerEdge R740,10/1/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-10,Server065.demo.com,Dell,PowerEdge R740,10/1/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-10,Server066.demo.com,Dell,PowerEdge R740,10/1/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-10,Server067.demo.com,Dell,PowerEdge R740,10/1/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-10,Server068.demo.com,Dell,PowerEdge R740,10/1/2025,In Progress
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-10,Server069.demo.com,Dell,PowerEdge R740,10/1/2025,In Progress
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-10,Server070.demo.com,Dell,PowerEdge R740,10/1/2025,In Progress
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-11,Server071.demo.com,Dell,PowerEdge R740,10/1/2025,In Progress
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-11,Server072.demo.com,Dell,PowerEdge R740,10/1/2025,In Progress
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-11,Server073.demo.com,Dell,PowerEdge R740,10/1/2025,In Progress
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-11,Server074.demo.com,Dell,PowerEdge R740,10/1/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-11,Server075.demo.com,Dell,PowerEdge R740,10/1/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-11,Server076.demo.com,Dell,PowerEdge R740,10/1/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-11,Server077.demo.com,Dell,PowerEdge R740,10/1/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-11,Server078.demo.com,Dell,PowerEdge R740,10/1/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-11,Server079.demo.com,Dell,PowerEdge R740,10/1/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-11,Server080.demo.com,Dell,PowerEdge R740,10/1/2025,Not Started
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-11,Server081.demo.com,Dell,PowerEdge R740,10/1/2025,Not Started
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-11,Server082.demo.com,Dell,PowerEdge R740,10/1/2025,Not Started
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-11,Server083.demo.com,Dell,PowerEdge R740,10/1/2025,Not Started
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-11,Server084.demo.com,Dell,PowerEdge R740,10/1/2025,Not Started
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-12,Server085.demo.com,Dell,PowerEdge R740,10/1/2025,Not Started
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-12,Server086.demo.com,Dell,PowerEdge R740,10/1/2025,Not Started
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-12,Server087.demo.com,Dell,PowerEdge R740,10/1/2025,Not Started
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-12,Server088.demo.com,Dell,PowerEdge R740,10/1/2025,Not Started
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-12,Server089.demo.com,Dell,PowerEdge R740,10/1/2025,Not Started
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-12,Server090.demo.com,Dell,PowerEdge R740,10/1/2025,on hold
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-12,Server091.demo.com,Dell,PowerEdge R740,10/1/2025,on hold
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-12,Server092.demo.com,Dell,PowerEdge R740,10/1/2025,on hold
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-12,Server093.demo.com,Dell,PowerEdge R740,10/1/2025,on hold
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-12,Server094.demo.com,Dell,PowerEdge R740,10/1/2025,on hold
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-12,Server095.demo.com,Dell,PowerEdge R740,10/1/2025,on hold
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-12,Server096.demo.com,Dell,PowerEdge R740,10/1/2025,on hold
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-12,Server097.demo.com,Dell,PowerEdge R740,10/1/2025,on hold
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-12,Server098.demo.com,Dell,PowerEdge R740,10/1/2025,In Progress
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-13,Server099.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-13,Server100.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-13,Server101.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-13,Server102.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-13,Server103.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-13,Server104.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-13,Server105.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-13,Server106.demo.com,Dell,PowerEdge R740,11/11/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-13,Server107.demo.com,Dell,PowerEdge R740,11/11/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-13,Server108.demo.com,Dell,PowerEdge R740,11/11/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-13,Server109.demo.com,Dell,PowerEdge R740,11/11/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-13,Server110.demo.com,Dell,PowerEdge R740,11/11/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-13,Server111.demo.com,Dell,PowerEdge R740,11/11/2025,Completed
-CHG00254781,vCenter-Second.demo.com,Cluster-NTX-13,Server112.demo.com,Dell,PowerEdge R740,11/11/2025,Completed
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-15,Server113.demo.com,Dell,PowerEdge R740,11/11/2025,Completed
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-15,Server114.demo.com,Dell,PowerEdge R740,11/11/2025,Completed
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-15,Server115.demo.com,Dell,PowerEdge R740,11/11/2025,Completed
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-15,Server116.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-15,Server117.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-15,Server118.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-15,Server119.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-15,Server120.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-15,Server121.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-15,Server122.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-15,Server123.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-15,Server124.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-15,Server125.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-15,Server126.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-14,Server127.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-14,Server128.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-14,Server129.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-14,Server130.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-14,Server131.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-14,Server132.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-14,Server133.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-14,Server134.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-14,Server135.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-14,Server136.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-14,Server137.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-14,Server138.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-14,Server139.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-14,Server140.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-17,Server141.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-17,Server142.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-17,Server143.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-17,Server144.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-17,Server145.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-17,Server146.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-17,Server147.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-17,Server148.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-17,Server149.demo.com,Dell,PowerEdge R740,10/5/2025,In Progress
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-17,Server150.demo.com,Dell,PowerEdge R740,10/5/2025,In Progress
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-17,Server151.demo.com,Dell,PowerEdge R740,10/5/2025,In Progress
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-17,Server152.demo.com,Dell,PowerEdge R740,10/5/2025,In Progress
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-17,Server153.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254778,vCenter-Third.demo.com,Cluster-NTX-17,Server154.demo.com,Dell,PowerEdge R740,10/5/2025,Completed
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-18,Server155.demo.com,Dell,PowerEdge R740,11/11/2025,Not Started
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-18,Server156.demo.com,Dell,PowerEdge R740,11/11/2025,Not Started
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-18,Server157.demo.com,Dell,PowerEdge R740,11/11/2025,Not Started
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-18,Server158.demo.com,Dell,PowerEdge R740,11/11/2025,Not Started
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-18,Server159.demo.com,Dell,PowerEdge R740,11/11/2025,Not Started
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-18,Server160.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-18,Server161.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-18,Server162.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-18,Server163.demo.com,Dell,PowerEdge R740,11/11/2025,In Progress
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-18,Server164.demo.com,Dell,PowerEdge R740,11/11/2025,Not Started
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-18,Server165.demo.com,Dell,PowerEdge R740,11/11/2025,Not Started
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-18,Server166.demo.com,Dell,PowerEdge R740,11/11/2025,Not Started
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-18,Server167.demo.com,Dell,PowerEdge R740,11/11/2025,Not Started
-CHG00254781,vCenter-Third.demo.com,Cluster-NTX-18,Server168.demo.com,Dell,PowerEdge R740,11/11/2025,Not Started
-CHG00254782,vCenter-Fourth.demo.com,Cluster-12,Server169.demo.com,Intel,M50CYP2UR208,11/1/2025,In Progress
-CHG00254782,vCenter-Fourth.demo.com,Cluster-12,Server170.demo.com,Intel,M50CYP2UR208,11/1/2025,In Progress
-CHG00254782,vCenter-Fourth.demo.com,Cluster-12,Server171.demo.com,Intel,M50CYP2UR208,11/1/2025,Completed
-CHG00254782,vCenter-Fourth.demo.com,Cluster-12,Server172.demo.com,Intel,M50CYP2UR208,11/1/2025,Completed
-CHG00254782,vCenter-Fourth.demo.com,Cluster-12,Server173.demo.com,Intel,M50CYP2UR208,11/1/2025,Completed
-CHG00254782,vCenter-Fourth.demo.com,Cluster-12,Server174.demo.com,Intel,M50CYP2UR208,11/1/2025,Completed
-CHG00254782,vCenter-Fourth.demo.com,Cluster-12,Server175.demo.com,Intel,M50CYP2UR208,11/1/2025,Completed
-CHG00254782,vCenter-Fourth.demo.com,Cluster-12,Server176.demo.com,Intel,M50CYP2UR208,11/1/2025,Completed
-CHG00254782,vCenter-Fourth.demo.com,Cluster-12,Server177.demo.com,Intel,M50CYP2UR208,11/1/2025,Completed
-CHG00254782,vCenter-Fourth.demo.com,Cluster-12,Server178.demo.com,Intel,M50CYP2UR208,11/1/2025,In Progress
-CHG00254782,vCenter-Fourth.demo.com,Cluster-12,Server179.demo.com,Intel,M50CYP2UR208,11/1/2025,In Progress
-CHG00254782,vCenter-Fourth.demo.com,Cluster-12,Server180.demo.com,Intel,M50CYP2UR208,11/1/2025,In Progress
-CHG00254782,vCenter-Fourth.demo.com,Cluster-12,Server181.demo.com,Intel,M50CYP2UR208,11/1/2025,In Progress
-CHG00254782,vCenter-Fourth.demo.com,Cluster-12,Server182.demo.com,Intel,M50CYP2UR208,11/1/2025,In Progress
-CHG00254782,vCenter-Fourth.demo.com,Cluster-06,Server183.demo.com,Intel,S2600WF,11/1/2025,In Progress
-CHG00254782,vCenter-Fourth.demo.com,Cluster-06,Server184.demo.com,Intel,S2600WF,11/1/2025,In Progress
-CHG00254782,vCenter-Fourth.demo.com,Cluster-06,Server185.demo.com,Intel,S2600WF,11/1/2025,In Progress
-CHG00254782,vCenter-Fourth.demo.com,Cluster-06,Server186.demo.com,Intel,S2600WF,11/1/2025,In Progress
-CHG00254782,vCenter-Fourth.demo.com,Cluster-06,Server187.demo.com,Intel,S2600WF,11/1/2025,In Progress
-CHG00254782,vCenter-Fourth.demo.com,Cluster-06,Server188.demo.com,Intel,S2600WF,11/1/2025,In Progress
-CHG00254782,vCenter-Fourth.demo.com,Cluster-06,Server189.demo.com,Intel,S2600WF,11/1/2025,In Progress
-CHG00254782,vCenter-Fourth.demo.com,Cluster-06,Server190.demo.com,Intel,S2600WF,11/1/2025,In Progress
-CHG00254782,vCenter-Fourth.demo.com,Cluster-06,Server191.demo.com,Intel,S2600WF,11/1/2025,In Progress
-CHG00254782,vCenter-Fourth.demo.com,Cluster-06,Server192.demo.com,Intel,S2600WF,11/1/2025,Not Started
-CHG00254782,vCenter-Fourth.demo.com,Cluster-06,Server193.demo.com,Intel,S2600WF,11/1/2025,Not Started
-CHG00254782,vCenter-Fourth.demo.com,Cluster-06,Server194.demo.com,Intel,S2600WF,11/1/2025,Not Started
-CHG00254782,vCenter-Fourth.demo.com,Cluster-06,Server195.demo.com,Intel,S2600WF,11/1/2025,Not Started
-CHG00254782,vCenter-Fourth.demo.com,Cluster-06,Server196.demo.com,Intel,S2600WF,11/1/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-07,Server197.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-07,Server198.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-07,Server199.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-07,Server200.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-07,Server201.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-07,Server202.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-07,Server203.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-07,Server204.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-07,Server205.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-07,Server206.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-07,Server207.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-07,Server208.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-07,Server209.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-07,Server210.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-17,Server197.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-17,Server198.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-17,Server199.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-17,Server200.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-17,Server201.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-17,Server202.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-17,Server203.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-17,Server204.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-17,Server205.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-17,Server206.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-17,Server207.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-17,Server208.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-17,Server209.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
-CHG00254781,vCenter-Fourth.demo.com,Cluster-17,Server210.demo.com,Intel,M50CYP2UR208,10/10/2025,Not Started
+﻿RFC ,Env.,vCenter,cluster name,Server Name ,Vendor,model,Engineer,planed date,status
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-08 ,Server001.demo com,Intel,M50CYP2UR208,Engineer2,11/1/2025,on Hold
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-08 ,Server002.demo com,Intel,M50CYP2UR208,Engineer1,11/1/2025,on Hold
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-08 ,Server003.demo com,Intel,M50CYP2UR208,Engineer1,11/1/2025,on Hold
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-08 ,Server004.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,on Hold
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-08 ,Server005.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,on Hold
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-08 ,Server006.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,on Hold
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-08 ,Server007.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,on Hold
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-08 ,Server008.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,on Hold
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-08 ,Server009.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,on Hold
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-08 ,Server0010.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,on Hold
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-08 ,Server011.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,on Hold
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-08 ,Server012.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,on Hold
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-08 ,Server013.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,on Hold
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-08 ,Server014.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,In Progress
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-09,Server015.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,In Progress
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-09,Server016.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,In Progress
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-09,Server017.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,In Progress
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-09,Server018.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,In Progress
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-09,Server019.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,In Progress
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-09,Server020.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,In Progress
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-09,Server021.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,In Progress
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-09,Server022.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,Completed
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-09,Server023.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,Completed
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-09,Server024.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,Completed
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-09,Server025.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,Completed
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-09,Server026.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,Not Started
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-09,Server027.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,Not Started
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-09,Server028.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,Not Started
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-10,Server029.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,Not Started
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-10,Server030.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,In Progress
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-10,Server031.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,In Progress
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-10,Server032.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,In Progress
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-10,Server033.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,In Progress
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-10,Server034.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,In Progress
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-10,Server035.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,In Progress
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-10,Server036.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,Not Started
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-10,Server037.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,Not Started
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-10,Server038.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,Not Started
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-10,Server039.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,Not Started
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-10,Server040.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,Not Started
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-10,Server041.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,Not Started
+CHG00254779,E1E2,vCenter-First.demo.com,Cluster-10,Server042.demo.com,Intel,M50CYP2UR208,Engineer1,10/1/2025,Not Started
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-11,Server043.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,Completed
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-11,Server044.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,Completed
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-11,Server045.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,Completed
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-11,Server046.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,Completed
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-11,Server047.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,Completed
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-11,Server048.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,Completed
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-11,Server049.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,Completed
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-11,Server050.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,Completed
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-11,Server051.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,Completed
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-11,Server052.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,Completed
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-11,Server053.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,In Progress
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-11,Server054.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,In Progress
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-11,Server055.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,In Progress
+CHG00254780,E1E2,vCenter-First.demo.com,Cluster-11,Server056.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,In Progress
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-10,Server057.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,In Progress
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-10,Server058.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-10,Server059.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-10,Server060.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-10,Server061.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-10,Server062.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-10,Server063.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-10,Server064.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-10,Server065.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-10,Server066.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-10,Server067.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-10,Server068.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,In Progress
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-10,Server069.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,In Progress
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-10,Server070.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,In Progress
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-11,Server071.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,In Progress
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-11,Server072.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,In Progress
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-11,Server073.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,In Progress
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-11,Server074.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-11,Server075.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-11,Server076.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-11,Server077.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-11,Server078.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-11,Server079.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-11,Server080.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Not Started
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-11,Server081.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Not Started
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-11,Server082.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Not Started
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-11,Server083.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Not Started
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-11,Server084.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Not Started
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-12,Server085.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Not Started
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-12,Server086.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Not Started
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-12,Server087.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Not Started
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-12,Server088.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Not Started
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-12,Server089.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,Not Started
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-12,Server090.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,on hold
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-12,Server091.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,on hold
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-12,Server092.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,on hold
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-12,Server093.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,on hold
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-12,Server094.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,on hold
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-12,Server095.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,on hold
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-12,Server096.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,on hold
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-12,Server097.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,on hold
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-12,Server098.demo.com,Dell,PowerEdge R740,Engineer2,10/1/2025,In Progress
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-13,Server099.demo.com,Dell,PowerEdge R740,Engineer2,11/11/2025,In Progress
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-13,Server100.demo.com,Dell,PowerEdge R740,Engineer2,11/11/2025,In Progress
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-13,Server101.demo.com,Dell,PowerEdge R740,Engineer2,11/11/2025,In Progress
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-13,Server102.demo.com,Dell,PowerEdge R740,Engineer2,11/11/2025,In Progress
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-13,Server103.demo.com,Dell,PowerEdge R740,Engineer2,11/11/2025,In Progress
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-13,Server104.demo.com,Dell,PowerEdge R740,Engineer2,11/11/2025,In Progress
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-13,Server105.demo.com,Dell,PowerEdge R740,Engineer2,11/11/2025,In Progress
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-13,Server106.demo.com,Dell,PowerEdge R740,Engineer2,11/11/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-13,Server107.demo.com,Dell,PowerEdge R740,Engineer2,11/11/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-13,Server108.demo.com,Dell,PowerEdge R740,Engineer2,11/11/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-13,Server109.demo.com,Dell,PowerEdge R740,Engineer2,11/11/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-13,Server110.demo.com,Dell,PowerEdge R740,Engineer2,11/11/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-13,Server111.demo.com,Dell,PowerEdge R740,Engineer2,11/11/2025,Completed
+CHG00254781,E1E2,vCenter-Second.demo.com,Cluster-NTX-13,Server112.demo.com,Dell,PowerEdge R740,Engineer2,11/11/2025,Completed
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-15,Server113.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,Completed
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-15,Server114.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,Completed
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-15,Server115.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,Completed
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-15,Server116.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,In Progress
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-15,Server117.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,In Progress
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-15,Server118.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,In Progress
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-15,Server119.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,In Progress
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-15,Server120.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,In Progress
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-15,Server121.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,In Progress
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-15,Server122.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,In Progress
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-15,Server123.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,In Progress
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-15,Server124.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,In Progress
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-15,Server125.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,In Progress
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-15,Server126.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,In Progress
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-14,Server127.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-14,Server128.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-14,Server129.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-14,Server130.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-14,Server131.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-14,Server132.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-14,Server133.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-14,Server134.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-14,Server135.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-14,Server136.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-14,Server137.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-14,Server138.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-14,Server139.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-14,Server140.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-17,Server141.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-17,Server142.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-17,Server143.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-17,Server144.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-17,Server145.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-17,Server146.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-17,Server147.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-17,Server148.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-17,Server149.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,In Progress
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-17,Server150.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,In Progress
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-17,Server151.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,In Progress
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-17,Server152.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,In Progress
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-17,Server153.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254778,E3,vCenter-Third.demo.com,Cluster-NTX-17,Server154.demo.com,Dell,PowerEdge R740,Engineer3,10/5/2025,Completed
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-18,Server155.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,Not Started
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-18,Server156.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,Not Started
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-18,Server157.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,Not Started
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-18,Server158.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,Not Started
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-18,Server159.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,Not Started
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-18,Server160.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,In Progress
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-18,Server161.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,In Progress
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-18,Server162.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,In Progress
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-18,Server163.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,In Progress
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-18,Server164.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,Not Started
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-18,Server165.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,Not Started
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-18,Server166.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,Not Started
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-18,Server167.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,Not Started
+CHG00254781,E3,vCenter-Third.demo.com,Cluster-NTX-18,Server168.demo.com,Dell,PowerEdge R740,Engineer3,11/11/2025,Not Started
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-12,Server169.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,In Progress
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-12,Server170.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,In Progress
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-12,Server171.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,Completed
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-12,Server172.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,Completed
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-12,Server173.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,Completed
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-12,Server174.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,Completed
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-12,Server175.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,Completed
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-12,Server176.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,Completed
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-12,Server177.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,Completed
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-12,Server178.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,In Progress
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-12,Server179.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,In Progress
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-12,Server180.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,In Progress
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-12,Server181.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,In Progress
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-12,Server182.demo.com,Intel,M50CYP2UR208,Engineer1,11/1/2025,In Progress
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-06,Server183.demo.com,Intel,S2600WF,Engineer1,11/1/2025,In Progress
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-06,Server184.demo.com,Intel,S2600WF,Engineer1,11/1/2025,In Progress
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-06,Server185.demo.com,Intel,S2600WF,Engineer1,11/1/2025,In Progress
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-06,Server186.demo.com,Intel,S2600WF,Engineer1,11/1/2025,In Progress
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-06,Server187.demo.com,Intel,S2600WF,Engineer1,11/1/2025,In Progress
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-06,Server188.demo.com,Intel,S2600WF,Engineer1,11/1/2025,In Progress
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-06,Server189.demo.com,Intel,S2600WF,Engineer1,11/1/2025,In Progress
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-06,Server190.demo.com,Intel,S2600WF,Engineer1,11/1/2025,In Progress
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-06,Server191.demo.com,Intel,S2600WF,Engineer1,11/1/2025,In Progress
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-06,Server192.demo.com,Intel,S2600WF,Engineer1,11/1/2025,Not Started
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-06,Server193.demo.com,Intel,S2600WF,Engineer1,11/1/2025,Not Started
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-06,Server194.demo.com,Intel,S2600WF,Engineer1,11/1/2025,Not Started
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-06,Server195.demo.com,Intel,S2600WF,Engineer1,11/1/2025,Not Started
+CHG00254782,E3,vCenter-Fourth.demo.com,Cluster-06,Server196.demo.com,Intel,S2600WF,Engineer1,11/1/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-07,Server197.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-07,Server198.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-07,Server199.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-07,Server200.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-07,Server201.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-07,Server202.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-07,Server203.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-07,Server204.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-07,Server205.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-07,Server206.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-07,Server207.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-07,Server208.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-07,Server209.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-07,Server210.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-17,Server197.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-17,Server198.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-17,Server199.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-17,Server200.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-17,Server201.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-17,Server202.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-17,Server203.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-17,Server204.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-17,Server205.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-17,Server206.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-17,Server207.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-17,Server208.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-17,Server209.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
+CHG00254781,E3,vCenter-Fourth.demo.com,Cluster-17,Server210.demo.com,Intel,M50CYP2UR208,Engineer1,10/10/2025,Not Started
